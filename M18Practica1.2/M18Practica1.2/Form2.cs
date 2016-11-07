@@ -46,10 +46,5 @@ namespace M18Practica1._2
         {
 
         }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }
