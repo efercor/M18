@@ -10,23 +10,11 @@ using System.Windows.Forms;
 
 namespace M18Practica1._2
 {
-    public partial class Form1 : Form
+    public partial class Form3 : Form
     {
-        public Form1()
+        public Form3()
         {
             InitializeComponent();
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form2 frm2 = new Form2();
-
-            frm2.Show();
         }
     }
 }
