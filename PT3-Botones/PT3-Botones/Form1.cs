@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace M18Practica1._2
+namespace PT3_Botones
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+        } 
     }
 }
