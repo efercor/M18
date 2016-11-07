@@ -1,0 +1,10 @@
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\bin\Debug\M18Practica1.2.exe.config
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\bin\Debug\M18Practica1.2.exe
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\bin\Debug\M18Practica1.2.pdb
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1.2.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1._2.Form1.resources
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1._2.Properties.Resources.resources
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1.2.csproj.GenerateResource.Cache
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1.2.exe
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1.2.pdb
+C:\Users\Usuari\Source\Repos\M18\M18Practica1.2\M18Practica1.2\obj\Debug\M18Practica1._2.Form2.resources
