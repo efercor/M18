@@ -311,7 +311,7 @@
             // toolStripButton3
             // 
             this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton3.Image = global::M18Practica1._2.Properties.Resources.ICONO_VOLVER_INICIO;
+            //this.toolStripButton3.Image = global::M18Practica1._2.Properties.Resources.ICONO_VOLVER_INICIO;
             this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(23, 20);
@@ -320,7 +320,7 @@
             // toolStripButton1
             // 
             this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = global::M18Practica1._2.Properties.Resources.USUARIOS;
+            //this.toolStripButton1.Image = global::M18Practica1._2.Properties.Resources.USUARIOS;
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(23, 20);
@@ -329,7 +329,7 @@
             // toolStripButton2
             // 
             this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton2.Image = global::M18Practica1._2.Properties.Resources.mas_info;
+            //this.toolStripButton2.Image = global::M18Practica1._2.Properties.Resources.mas_info;
             this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(23, 20);
