@@ -56,5 +56,22 @@ namespace M18Practica1._2
         {
 
         }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+
     }
 }
