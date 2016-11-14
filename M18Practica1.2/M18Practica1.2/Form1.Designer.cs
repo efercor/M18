@@ -59,8 +59,7 @@
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackColor = System.Drawing.SystemColors.Highlight;
-            this.tableLayoutPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("tableLayoutPanel1.BackgroundImage")));
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.PaleTurquoise;
             this.tableLayoutPanel1.ColumnCount = 7;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 11.76471F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 17.64706F));
@@ -105,8 +104,9 @@
             // 
             // linkLabel1
             // 
-            this.linkLabel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel1.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel1.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel1.Location = new System.Drawing.Point(3, 204);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(169, 45);
@@ -139,8 +139,9 @@
             // 
             // linkLabel2
             // 
-            this.linkLabel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel2.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel2.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.linkLabel2.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel2.Location = new System.Drawing.Point(3, 206);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(169, 38);
@@ -174,8 +175,9 @@
             // 
             // linkLabel3
             // 
-            this.linkLabel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel3.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel3.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel3.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel3.Location = new System.Drawing.Point(3, 206);
             this.linkLabel3.Name = "linkLabel3";
             this.linkLabel3.Size = new System.Drawing.Size(169, 43);
@@ -210,8 +212,9 @@
             // 
             // linkLabel4
             // 
-            this.linkLabel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel4.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel4.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.linkLabel4.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel4.Location = new System.Drawing.Point(3, 202);
             this.linkLabel4.Name = "linkLabel4";
             this.linkLabel4.Size = new System.Drawing.Size(169, 36);
@@ -246,8 +249,9 @@
             // 
             // linkLabel5
             // 
-            this.linkLabel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel5.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel5.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.linkLabel5.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel5.Location = new System.Drawing.Point(3, 202);
             this.linkLabel5.Name = "linkLabel5";
             this.linkLabel5.Size = new System.Drawing.Size(169, 36);
@@ -290,8 +294,9 @@
             // 
             // linkLabel6
             // 
-            this.linkLabel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.linkLabel6.BackColor = System.Drawing.Color.SeaGreen;
             this.linkLabel6.Font = new System.Drawing.Font("Verdana", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.linkLabel6.LinkColor = System.Drawing.SystemColors.Window;
             this.linkLabel6.Location = new System.Drawing.Point(3, 201);
             this.linkLabel6.Name = "linkLabel6";
             this.linkLabel6.Size = new System.Drawing.Size(169, 43);
