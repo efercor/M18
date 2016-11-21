@@ -12,6 +12,12 @@ namespace M18Practica1._2
 {
     public partial class Form1 : Form
     {
+        public void irAFormDos()
+        {
+            Form2 frm2 = new Form2();
+
+            frm2.Show();
+        }
         public Form1()
         {
             InitializeComponent();
@@ -24,9 +30,12 @@ namespace M18Practica1._2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 frm2 = new Form2();
+            irAFormDos();
+        }
 
-            frm2.Show();
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            irAFormDos();
         }
     }
 }
